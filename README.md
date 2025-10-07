@@ -34,7 +34,7 @@ Diese beiden Treffer sind typische Fehlalarme, die häufig bei selbst erstellten
 
 ## 💻 Installation
 
-1. Lade den aktuellen Release hier auf **GitHub** herunter.  
+1. Lade den aktuellen [Release hier](https://github.com/Minewache-Team/Minewache-Launcher/releases) auf **GitHub** herunter.  
 2. Führe die Setup-Datei aus.  
 3. Der Launcher installiert sich automatisch im Benutzerverzeichnis (`AppData`).  
 4. Starte den Launcher und melde dich mit deinem **Microsoft-/Mojang-Konto** an.
@@ -45,9 +45,8 @@ Diese beiden Treffer sind typische Fehlalarme, die häufig bei selbst erstellten
 
 ## 📂 Projektinformationen
 
-- **Entwickler:** Sarocesch  
-- **Entwicklungsumgebung:** Visual Studio Code  
-- **Programmiersprache:** Rust / Tauri  
+- **Entwickler:** Sarocesch 
+- **Programmiersprache:** Rust / Tauri
 - **Bereitstellung:** Über GitHub Releases  
 - **Website des Projekts:** [minewache.de](https://minewache.de) *(Launcher wird dort nicht direkt angeboten)*
 
