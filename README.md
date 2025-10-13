@@ -13,7 +13,7 @@ Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeug
 
 ## 📦 Aktuelle Version
 
-**Version:** `1.0.3`  
+**Version:** `1.0.6`  
 **Status:** Erster offizieller Release  
 **Release-Datum:** *07.10.2025*
 
