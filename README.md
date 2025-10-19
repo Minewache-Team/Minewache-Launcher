@@ -54,11 +54,16 @@ Diese beiden Treffer sind typische Fehlalarme, die häufig bei selbst erstellten
 
 ---
 
-## 📜 Lizenz
+---
+
+## 📜 Lizenz und Datenschutz
 
 Diese Version enthält nur die **Release-Datei** und die **README.md**.  
 Der **Quellcode** ist **nicht öffentlich** verfügbar.  
 Jegliche Weitergabe oder Modifikation der ausführbaren Datei ist **nicht gestattet**.
+
+➡️ **Weitere rechtliche Informationen:**  
+Siehe die [Nutzungsbedingungen und Datenschutzerklärung](./LICENSE.md).
 
 ---
 
@@ -72,4 +77,5 @@ das mehrere hundert Euro im Jahr kostet – daher wurde darauf aktuell verzichte
 
 ---
 
-*© 2025 Die Minewache – Minewache Launcher*
+*© 2025 Die Minewache – Minewache Launcher*  
+*Minecraft ist eine Marke von Mojang AB / Microsoft Corporation. Dieses Projekt steht in keiner Verbindung zu Mojang oder Microsoft.*
