@@ -13,12 +13,7 @@ Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeug
 
 ## 📦 Aktuelle Version
 
-**Version:** `1.1.5`  
-**Status:** Erster offizieller Release  
-**Release-Datum:** *07.10.2025*
-
-### ✨ Änderungen in Version 1.0.2
-- Erstveröffentlichung des Launchers  
+**Version:** `1.1.6`  
 
 ---
 
