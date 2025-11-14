@@ -1,6 +1,6 @@
 # 🚔 Minewache Launcher
 
-## ℹ️Das erstmalige Starten des Launchers kann etwas länger dauern, dieser Vorgang ist jedoch nur einmal erforderlich.
+## ℹ️Das erstmalige Starten des Modpacks über den Launcher kann etwas länger dauern, dieser Vorgang ist jedoch nur einmal erforderlich.
 
 Der **Minewache Launcher** ist ein moderner Minecraft-Launcher, der speziell für das Projekt **Die Minewache (2025)** entwickelt wurde.  
 Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeugt durch ein cleanes, modernes Design.
