@@ -13,7 +13,7 @@ Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeug
 
 ## 📦 Aktuelle Version
 
-**Version:** `1.2.8`  
+**Version:** `1.2.9`  
 
 ---
 
