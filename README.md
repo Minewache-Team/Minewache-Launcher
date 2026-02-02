@@ -11,21 +11,24 @@ Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeug
 
 ---
 
-## 📦 Aktuelle Version
+## 📦 Aktuelle Version (ReadMe)
 
-**Version:** `1.3.9`  
+**Version:** `1.4.5`  
 
 ---
 
 ## 🔒 Sicherheitshinweis
 
-Die Installationsdatei wurde auf [VirusTotal](https://www.virustotal.com/gui/file/b376c6586072388fc2ba9d66be0afe4eddcae7b2d3b779194bdee01b23d379fa/detection) mit über **70 Sicherheits-Engines** geprüft.
+Die Installationsdatei wurde auf [VirusTotal](https://www.virustotal.com/gui/file/3f8cd8e4e3ad24e0419d128ebad7c3337ac4057014866106ca5b337a90872f22/detection) mit **72 Sicherheits-Engines** geprüft.
 
 **Ergebnis:**
-- ✅ 68 von 70 Engines erkennen die Datei als **sicher**  
-- ⚠️ 2 Engines (**Jiangmin**, **SecureAge APEX**) zeigen **bekannte False Positives**
+- ✅ **70 von 72 Engines** erkennen die Datei als **unbedenklich**
+- ⚠️ **2 Engines** (**Bkav Pro**, **SecureAge**) melden eine Erkennung
 
-Diese beiden Treffer sind typische Fehlalarme, die häufig bei selbst erstellten oder nicht signierten Anwendungen auftreten.
+Diese beiden Meldungen sind **bekannte False Positives**, die häufig bei:
+- selbst entwickelten Launchern  
+- nicht signierten Windows-Installern (NSIS)  
+auftreten.
 
 ---
 
