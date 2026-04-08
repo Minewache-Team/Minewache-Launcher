@@ -11,12 +11,6 @@ Er ermöglicht einen schnellen Start, automatisches Modpack-Update und überzeug
 
 ---
 
-## 📦 Aktuelle Version (ReadMe)
-
-**Version:** `1.4.5`  
-
----
-
 ## 🔒 Sicherheitshinweis
 
 Die Installationsdatei wurde auf [VirusTotal](https://www.virustotal.com/gui/file/3f8cd8e4e3ad24e0419d128ebad7c3337ac4057014866106ca5b337a90872f22/detection) mit **72 Sicherheits-Engines** geprüft.
